@@ -1371,5 +1371,3 @@ def Subscraption():
                 print(logo)
                 Subscraption()
 Main()
-
-[Program finished]
